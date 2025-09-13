@@ -1,16 +1,16 @@
-[13Sep2025 16:09:28.933] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[13Sep2025 16:09:28.937] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[13Sep2025 16:09:29.071] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[13Sep2025 16:09:29.124] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/demon-slayer-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[13Sep2025 16:09:29.359] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[13Sep2025 16:09:29.360] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Sep2025 16:09:29.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Sep2025 16:09:29.363] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[13Sep2025 16:09:29.501] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[13Sep2025 16:09:31.036] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[13Sep2025 16:09:31.050] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[13Sep2025 16:09:31.091] [main/WARN] [mixin/]: Reference map 'mixins.kimetsunoyaiba.refmap.json' for mixins.kimetsunoyaiba.json could not be read. If this is a development environment you can ignore this message
-[13Sep2025 16:09:36.720] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: kimetsunoyaiba, class net.mcreator.kimetsunoyaiba.KimetsunoyaibaMod
+[13Sep2025 16:19:29.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Sep2025 16:19:29.870] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[13Sep2025 16:19:29.998] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Sep2025 16:19:30.043] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/demon-slayer-/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Sep2025 16:19:30.244] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Sep2025 16:19:30.246] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Sep2025 16:19:30.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Sep2025 16:19:30.248] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/demon-slayer-/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Sep2025 16:19:30.368] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[13Sep2025 16:19:32.039] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Sep2025 16:19:32.054] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Sep2025 16:19:32.121] [main/WARN] [mixin/]: Reference map 'mixins.kimetsunoyaiba.refmap.json' for mixins.kimetsunoyaiba.json could not be read. If this is a development environment you can ignore this message
+[13Sep2025 16:19:38.015] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: kimetsunoyaiba, class net.mcreator.kimetsunoyaiba.KimetsunoyaibaMod
 java.lang.NoSuchMethodException: net.mcreator.kimetsunoyaiba.KimetsunoyaibaMod.<init>()
 	at java.lang.Class.getConstructor0(Class.java:3585) ~[?:?]
 	at java.lang.Class.getDeclaredConstructor(Class.java:2754) ~[?:?]
@@ -23,13 +23,13 @@ java.lang.NoSuchMethodException: net.mcreator.kimetsunoyaiba.KimetsunoyaibaMod.<
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[13Sep2025 16:09:36.789] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[13Sep2025 16:09:36.794] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[13Sep2025 16:09:36.976] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
-[13Sep2025 16:09:37.040] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7ab95e91-fd92-4c0e-9d60-88eac92e5452
-[13Sep2025 16:09:37.041] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-13_16.09.37-fml.txt
-[13Sep2025 16:09:37.043] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0c23906a-ba5d-46e3-8343-5dde40f9ec5e
-[13Sep2025 16:09:37.044] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[13Sep2025 16:19:38.045] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Sep2025 16:19:38.047] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Sep2025 16:19:38.230] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[13Sep2025 16:19:38.300] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 99c64e9d-c148-434b-b542-cb41cf234d27
+[13Sep2025 16:19:38.300] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-09-13_16.19.38-fml.txt
+[13Sep2025 16:19:38.302] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e7704323-977b-4a03-ad37-a20bddaf29a7
+[13Sep2025 16:19:38.305] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	Kimetsunoyaiba (kimetsunoyaiba) has failed to load correctly
 §7java.lang.NoSuchMethodException: net.mcreator.kimetsunoyaiba.KimetsunoyaibaMod.<init>()
